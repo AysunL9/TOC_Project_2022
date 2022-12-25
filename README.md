@@ -54,20 +54,20 @@ brew cask install ngrok
 ![](https://i.imgur.com/Ja3VU1E.png)
 
 * ### 輸入`開始`，進入`教室`
-![](https://i.imgur.com/uJR6InA.png =50%x)
+![](https://i.imgur.com/uJR6InA.png)
 
 * ### 左轉去`黑板`，解出`保險箱`密碼
-![](https://i.imgur.com/9eZNJ8C.jpg =50)
+![](https://i.imgur.com/9eZNJ8C.jpg)
 
 
 1. ### 左轉去`書桌`，查看`書`的資訊
-![](https://i.imgur.com/Dgo34yz.jpg =50%x)
+![](https://i.imgur.com/Dgo34yz.jpg)
 
 * ### 左轉去`置物櫃`，解開`橘色箱子`
-![](https://i.imgur.com/6W3jJdM.jpg =50%x)
+![](https://i.imgur.com/6W3jJdM.jpg)
 
 * ### 左轉回`教室`，輸入`門`的密碼，逃出學校
-![](https://i.imgur.com/nFb1zSM.jpg =50%x)
+![](https://i.imgur.com/nFb1zSM.jpg)
 
 # state說明
 * user: initial state
