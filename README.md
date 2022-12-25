@@ -51,7 +51,7 @@ brew cask install ngrok
 3. 成功脫逃後，即恢復state->`user`，需輸入`開始`再次觸發
 # 使用示範
 * ### 加入好友
-![](https://i.imgur.com/Ja3VU1E.png#w50)
+![](https://i.imgur.com/Ja3VU1E.png =100x200)
 
 * ### 輸入`開始`，進入`教室`
 ![](https://i.imgur.com/uJR6InA.png)
