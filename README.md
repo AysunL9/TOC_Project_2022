@@ -88,5 +88,4 @@ brew cask install ngrok
 * success: 開門
 * open: 逃脫成功
 
-# Lauguages : Python 100%
 > [name=Ting Yun Liao]
