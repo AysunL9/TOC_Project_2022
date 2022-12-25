@@ -51,13 +51,13 @@ brew cask install ngrok
 3. 成功脫逃後，即恢復state->`user`，需輸入`開始`再次觸發
 # 使用示範
 * ### 加入好友
-![](https://i.imgur.com/Ja3VU1E.png =50%x)
+![](https://i.imgur.com/Ja3VU1E.png)
 
 * ### 輸入`開始`，進入`教室`
 ![](https://i.imgur.com/uJR6InA.png =50%x)
 
 * ### 左轉去`黑板`，解出`保險箱`密碼
-![](https://i.imgur.com/9eZNJ8C.jpg =50%x)
+![](https://i.imgur.com/9eZNJ8C.jpg =50)
 
 
 1. ### 左轉去`書桌`，查看`書`的資訊
